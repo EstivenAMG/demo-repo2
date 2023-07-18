@@ -12,7 +12,7 @@
 	<header>
 		<nav>
 			<ul>
-				<li>Your menu</li>
+				<li>Changes</li>
 			</ul>
 		</nav>
 	</header>
